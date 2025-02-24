@@ -2,6 +2,8 @@
 
 # I Make Awesome Shit Since 2024 🚀
 
+I am a full-stack developer passionate about frontend engineering, animations, and scalable web applications. My expertise includes Vue, Nuxt, GSAP, TailwindCSS, Laravel, Adonis.js, and more. 
+
 <div align="center">
   <a href="https://hetari.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
@@ -88,6 +90,13 @@
   A template for building reusable Vue and React libraries with Vite and TypeScript.
 
 <!-- 
+<samp>
+
+**Other projects** \
+
+</samp>
+
+
 ## Skills 📜
 
 <table border="0">
