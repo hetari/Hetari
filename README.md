@@ -57,6 +57,15 @@ I am a full-stack developer passionate about frontend engineering, animations, a
   </a>
 </div>
 
+<div align="center">
+  <a href="https://stackoverflow.com/users/29157031/ebraheem-al-hetari" title="Ebraheem Al-Hetari's Stack Overflow Reputation">
+    <img 
+      src="https://img.shields.io/stackexchange/stackoverflow/r/29157031?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" 
+      alt="Ebraheem Al-Hetari's Stack Overflow Reputation" 
+    />
+  </a>
+</div>
+
 <!-- 
 ## Tech Stack ⚡
 <div align="center">
