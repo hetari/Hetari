@@ -98,6 +98,9 @@ I am a full-stack developer passionate about frontend engineering, animations, a
 - **[Vue and React Library Template](https://github.com/Hetari/vue-and-react-library-template)**  
   A template for building reusable Vue and React libraries with Vite and TypeScript.
 
+- **[Mesh Magic Generator](https://github.com/Hetari/mesh-magic)**  
+  A beautiful and intuitive mesh gradient generator built with Nuxt 4. Create stunning gradients for your next project with precision and style.
+
 ### Code Stats
 ![Rinkit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetari&bg_color=2c3e50&color=41b883&line=41b883&point=f6f8fa&area=true&hide_border=true)
 
