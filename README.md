@@ -20,7 +20,7 @@ I am a full-stack developer passionate about frontend engineering, animations, a
   <a href="https://github.com/hetari" target="_blank">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hetari?style=for-the-badge&logo=github&logoColor=white&color=071A2C">
   </a>
-  <a href="https://github.com/Hetari/Hetari/issues/1">
+  <a href="https://github.com/hetari/Hetari/issues/1">
     <img src="https://img.shields.io/badge/Ask%20me-here-1abc9c.svg?style=for-the-badge" /> </a>
 </div>
 
@@ -44,7 +44,7 @@ I am a full-stack developer passionate about frontend engineering, animations, a
 -->
 
 <div align="center">
-  <a href="https://github.com/Hetari" target="_blank">
+  <a href="https://github.com/hetari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
   </a>
   <a href="mailto:hetari3all@gmail.com" target="_blank" style="text-decoration: none">
@@ -90,17 +90,20 @@ I am a full-stack developer passionate about frontend engineering, animations, a
 
 ## 🚀 My Open Source Projects
 
-- **[Pyutube - YouTube Downloader CLI](https://github.com/Hetari/pyutube)**  
-  A simplest YouTube downloader CLI to download videos or playlists without complex options.
+- **[Shadcn Documentation Template](https://github.com/Hetari/shadcn-docs-template)**  
+  A template for building documentation websites like Shadcn does
 
-- **[Vuejs Code Block](https://github.com/Hetari/vuejs-code-block)**  
-  A set of basic styled UI components for building powerful code blocks in Vue.
+- **[Mesh Magic Generator](https://github.com/hetari/mesh-magic)**  
+  A beautiful and intuitive mesh gradient generator built with Nuxt 4. Create stunning gradients for your next project with precision and style.
 
-- **[Vue and React Library Template](https://github.com/Hetari/vue-and-react-library-template)**  
+- **[Vue and React Library Template](https://github.com/hetari/vue-and-react-library-template)**  
   A template for building reusable Vue and React libraries with Vite and TypeScript.
 
-- **[Mesh Magic Generator](https://github.com/Hetari/mesh-magic)**  
-  A beautiful and intuitive mesh gradient generator built with Nuxt 4. Create stunning gradients for your next project with precision and style.
+- **[Vuejs Code Block](https://github.com/hetari/vuejs-code-block)**  
+  A set of basic styled UI components for building powerful code blocks in Vue.
+
+- **[Pyutube - YouTube Downloader CLI](https://github.com/hetari/pyutube)**  
+  A simplest YouTube downloader CLI to download videos or playlists without complex options.
 
 ### Code Stats
 ![Rinkit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetari&bg_color=2c3e50&color=41b883&line=41b883&point=f6f8fa&area=true&hide_border=true)
