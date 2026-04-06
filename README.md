@@ -90,7 +90,11 @@ I am a full-stack developer passionate about frontend engineering, animations, a
 
 ## 🚀 My Open Source Projects
 
-- **[Shadcn Documentation Template](https://github.com/Hetari/shadcn-docs-template)**  
+- **[Sulaf](https://github.com/hetari/sulaf)**  
+  Beautiful, accessible Vue components built for shadcn-vue. Copy, paste, and make them yours.  
+  *A registry that extends shadcn-vue with pure, refined components.*
+
+- **[Shadcn Documentation Template](https://github.com/hetari/shadcn-docs-template)**  
   A template for building documentation websites like Shadcn does
 
 - **[Mesh Magic Generator](https://github.com/hetari/mesh-magic)**  
