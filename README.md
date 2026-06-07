@@ -11,7 +11,7 @@ I am a full-stack developer passionate about frontend engineering, animations, a
   <a href="https://en.wikipedia.org/wiki/Open_source"  target="_blank">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge"/>
   </a>
-  <a href="https://twitter.com/4Hetari"  target="_blank">
+  <a href="https://twitter.com/hetaridev"  target="_blank">
     <img src="https://komarev.com/ghpvc/?username=hetari&label=Profile%20visitors&style=for-the-badge&color=071A2C" alt="hetari" />
   </a>
   <a href="https://github.com/hetari" target="_blank">
@@ -53,7 +53,7 @@ I am a full-stack developer passionate about frontend engineering, animations, a
   <a href="https://t.me/e_1_e" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge" />
   </a>
-  <a href="https://twitter.com/4Hetari" target="_blank" style="text-decoration: none">
+  <a href="https://twitter.com/hetaridev" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Twitt...X-000?style=for-the-badge&logo=X&logoColor=fff" alt="twitter badge" />
   </a>
 </div>
